@@ -1,0 +1,10 @@
+{
+  "apps" : [{
+    "merge_logs"  : true,
+    "name"        : "bc_example_api_pleno",
+    "out_file"    : "/tmp/bc_example_api_pleno.log",
+    "autorestart" : true,
+    "log_date_format" : "DD/MM/YYYY HH:mm:ss",
+    "script"      : "adonis serve"
+  }]
+}

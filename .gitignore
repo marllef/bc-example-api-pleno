@@ -1,0 +1,13 @@
+# Node modules
+node_modules
+
+# Adonis directory for storing tmp files
+tmp
+
+# Lock file of npm
+package-lock.json
+
+# .env file only for base folder
+/.env
+
+.DS_Store
