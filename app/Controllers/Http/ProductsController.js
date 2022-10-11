@@ -9,7 +9,7 @@ class ProductsController {
 
   async show({ params, request, response }) {
     try {
-      const product = Products.find((product) => product.id == params.id);
+      const product = Products.find((product) => product.id === Number(params.id));
 
       if (!product) throw new Error(`Produto não encontrado.`);
 
