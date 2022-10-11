@@ -8,7 +8,7 @@ Para podermos proseguir com o processo de avaliação, estamos disponibilizando 
 
 O teste proposto será bem simples, porém por sermos uma startup, além das habilidades técnicas é muito importante a comunicação e pesquisa por soluções de problemas. Tenha isso em mente ao resolvê-lo. 
 
-O teste é composto por dois exercicios, é importante **fazer os dois**. 
+O teste é composto por três exercicios, é importante **fazer os três**. 
 
 O uso de requisitos e os diferenciais listados na vaga será considerado um bônus.
 
@@ -35,7 +35,7 @@ Boa sorte!
 
 ### **Exercício 1 - Teste prático**
 
-# Backend
+## Backend
 
 Para prosseguir faça um Fork do projeto: https://github.com/BomCupom/bc-example-api-pleno, para utilizá-lo como base no teste.
 
@@ -47,7 +47,7 @@ Para prosseguir faça um Fork do projeto: https://github.com/BomCupom/bc-example
 
 - A lista de produtos que as rotas devem usar para devolver os dados está no arquivo: assets/products.json do repositório: bc-example-api-pleno;
 
-# Frontend
+## Frontend
 
 Para prosseguir faça um Fork do projeto: https://github.com/BomCupom/bc-example-pleno, para utilizá-lo como base no teste.
 
